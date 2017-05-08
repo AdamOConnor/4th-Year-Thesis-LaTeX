@@ -1,0 +1,1747 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.1)  8 MAY 2017 14:32
+entering extended mode
+**./Thesis.tex
+(Thesis.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\repor
+t.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+2.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textc
+omp.sty"
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1en
+c.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+msfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+mssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+smath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\ams
+thm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\newlf
+ont.sty"
+Package: newlfont 1998/08/17 v2.2m Standard LaTeX package
+LaTeX Info: Redefining \em on input line 57.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latex
+sym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+))
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-d
+ef\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabu
+larx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\arra
+y.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks27
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+\TX@col@width=\dimen116
+\TX@old@table=\dimen117
+\TX@old@col=\dimen118
+\TX@target=\dimen119
+\TX@delta=\dimen120
+\TX@cols=\count101
+\TX@ftn=\toks28
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\long
+table.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count102
+\LTcapwidth=\dimen121
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks29
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\l
+scape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\b
+ooktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen122
+\lightrulewidth=\dimen123
+\cmidrulewidth=\dimen124
+\belowrulesep=\dimen125
+\belowbottomsep=\dimen126
+\aboverulesep=\dimen127
+\abovetopsep=\dimen128
+\cmidrulesep=\dimen129
+\cmidrulekern=\dimen130
+\defaultaddspace=\dimen131
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen132
+\@belowrulesep=\dimen133
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen134
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\nat
+bib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip55
+\bibsep=\skip56
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count111
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\g
+eometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks30
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\g
+eometry.cfg"))
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\f
+ancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip57
+\f@ncyO@elh=\skip58
+\f@ncyO@erh=\skip59
+\f@ncyO@olh=\skip60
+\f@ncyO@orh=\skip61
+\f@ncyO@elf=\skip62
+\f@ncyO@erf=\skip63
+\f@ncyO@olf=\skip64
+\f@ncyO@orf=\skip65
+) (xthesis.sty
+Document Style Option `ITBthesis'.
+) (xtocinc.sty
+\tclineskip=\skip66
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tabu\tabu.
+sty"
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\va
+rwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box32
+\sift@deathcycles=\count115
+\@vwid@loff=\dimen143
+\@vwid@roff=\dimen144
+)
+\c@taburow=\count116
+\tabu@nbcols=\count117
+\tabu@cnt=\count118
+\tabu@Xcol=\count119
+\tabu@alloc=\count120
+\tabu@nested=\count121
+\tabu@target=\dimen145
+\tabu@spreadtarget=\dimen146
+\tabu@naturalX=\dimen147
+\tabucolX=\dimen148
+\tabu@Xsum=\dimen149
+\extrarowdepth=\dimen150
+\abovetabulinesep=\dimen151
+\belowtabulinesep=\dimen152
+\tabustrutrule=\dimen153
+\tabu@thebody=\toks31
+\tabu@footnotes=\toks32
+\tabu@box=\box33
+\tabu@arstrutbox=\box34
+\tabu@hleads=\box35
+\tabu@vleads=\box36
+\tabu@cellskip=\skip67
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\
+subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip68
+\subfigcapskip=\skip69
+\subfigcaptopadj=\dimen154
+\subfigbottomskip=\skip70
+\subfigcapmargin=\dimen155
+\subfiglabelskip=\skip71
+\c@subfigure=\count122
+\c@lofdepth=\count123
+\c@subtable=\count124
+\c@lotdepth=\count125
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\
+subfigure.cfg")
+\subfig@top=\skip72
+\subfig@bottom=\skip73
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\tim
+es.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\h
+yperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\a
+uxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count126
+\Hy@pagecounter=\count127
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\p
+d1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count128
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\h
+yperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count129
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.st
+y"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen157
+\Fld@menulength=\count130
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count131
+\c@Item=\count132
+\c@Hfootnote=\count133
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\h
+pdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count134
+\c@bookmark@seq@number=\count135
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\r
+erunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip74
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+istings.sty"
+\lst@mode=\count136
+\lst@gtempboxa=\box37
+\lst@token=\toks33
+\lst@length=\count137
+\lst@currlwidth=\dimen160
+\lst@column=\count138
+\lst@pos=\count139
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count140
+\lst@lineno=\count141
+\lst@maxwidth=\dimen163
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count142
+\lst@skipnumbers=\count143
+\lst@framebox=\box38
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+istings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+
+LaTeX Warning: Unused global option(s):
+    [ITBthesis].
+
+(Thesis.aux (abstract.aux) (acknowledgement.aux) (abbreviations.aux)
+(chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux
+
+LaTeX Warning: Label `Figure: History Survey' multiply defined.
+
+
+LaTeX Warning: Label `Figure: History Survey' multiply defined.
+
+
+LaTeX Warning: Label `Figure: History Survey' multiply defined.
+
+) (chapter5.aux) (chapter6.aux) (chapter7.aux
+
+LaTeX Warning: Label `Figure: Firebase Database' multiply defined.
+
+) (chapter8.aux) (chapter9.aux
+
+LaTeX Warning: Label `Battery Usage of Positioning Techniques' multiply defined
+.
+
+) (chapter10.aux) (chapter11.aux
+
+LaTeX Warning: Label `Figure: Entering Post' multiply defined.
+
+) (chapter12.aux) (chapter13.aux) (chapter14.aux))
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 45.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cm
+r.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 45.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
+ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen164
+\scratchbox=\box39
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen165
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks35
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=441.01772pt
+* \textheight=617.42471pt
+* \oddsidemargin=34.14322pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=12.0pt
+* \headsep=22.76228pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=40.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring OFF on input line 45.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\n
+ameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
+ (Thesis.out) (Thesis.out)
+\@outlinefile=\write3
+\openout3 = `Thesis.out'.
+
+\c@lstlisting=\count151
+\defbaselineskip=\skip75
+\c@thm=\count152
+\c@defn=\count153
+\c@rem=\count154
+
+Most over/underfulls in first few pages are the fault of dalthesis.
+Ignore all them. If uncorrectable errors occur, notify staff.
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+[1
+
+{C:/Users/Adam O'Connor/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 155.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Overfull \hbox (8.80762pt too wide) in paragraph at lines 155--155
+\OT1/ptm/m/n/12 where oth-er-wise stated, and has not been sub-mit-ted for as-s
+ess-ment for an aca-demic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+[2]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+
+Overfull \hbox (13.22559pt too wide) in paragraph at lines 9--10
+[]\OT1/ptm/m/n/12 The fol-low-ing ap-pli-ca-tion would pro-vide an in-ex-pen-si
+ve way of dis-play-ing his-tor-i-cal
+ []
+
+)pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.155 \setcounter{page}{1} \beforepreface
+                                          [2
+
+
+]
+Acknowledgements
+\openout2 = `acknowledgement.aux'.
+
+(acknowledgement.tex
+Overfull \hbox (4.6588pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/12 Throughout the project in ques-tion, the au-thor has of great g
+rat-i-tude for Dr Si-mon McLough-lin
+ []
+
+) [3
+
+
+
+]
+\@defbaselineskip=\skip76
+ (Thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 8.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy
+.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [4
+
+
+] [5] [6] [7] [8] [9] [10])
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+ [11] (Thesis.lot)
+\tf@lot=\write5
+\openout5 = `Thesis.lot'.
+
+ [12
+
+] (Thesis.lof [13
+
+]
+[14])
+\tf@lof=\write6
+\openout6 = `Thesis.lof'.
+
+ [15]
+Abbreviations
+\openout2 = `abbreviations.aux'.
+
+(abbreviations.tex
+Underfull \vbox (badness 10000) detected at line 28
+ []
+
+) [16
+
+
+]
+Dalthesis preface pages completed.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 177.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 178.
+
+\openout2 = `chapter1.aux'.
+
+(chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+[1
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
+)
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 182.
+
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
+bch.fd"
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+) [2]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+Chapter 2.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 7.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1
+ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [3
+
+
+
+] [4]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+ <vshapedmodel.jpg, id=1042, 421.575pt x 277.78781pt>
+File: vshapedmodel.jpg Graphic file (type jpg)
+
+<use vshapedmodel.jpg>
+Package pdftex.def Info: vshapedmodel.jpg used on input line 46.
+(pdftex.def)             Requested size: 400.0pt x 263.57475pt.
+ [5 <./vshapedmodel.jpg>] [6]
+<ganntChart.png, id=1063, 523.9575pt x 274.02374pt>
+File: ganntChart.png Graphic file (type png)
+ <use ganntChart.png>
+Package pdftex.def Info: ganntChart.png used on input line 96.
+(pdftex.def)             Requested size: 420.01404pt x 250.0059pt.
+
+[7 <./ganntChart.png>] <alcatel.jpg, id=1072, 160.6pt x 212.795pt>
+File: alcatel.jpg Graphic file (type jpg)
+
+<use alcatel.jpg>
+Package pdftex.def Info: alcatel.jpg used on input line 121.
+(pdftex.def)             Requested size: 150.00339pt x 250.01465pt.
+ [8 <./alcatel.jpg>]) [9]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+[10
+
+
+
+] [11] <androidstudiologo.png, id=1119, 803.0pt x 401.5pt>
+File: androidstudiologo.png Graphic file (type png)
+
+<use androidstudiologo.png>
+Package pdftex.def Info: androidstudiologo.png used on input line 38.
+(pdftex.def)             Requested size: 200.0pt x 100.00104pt.
+ [12]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+ [13 <./androidstudiologo.png>] [14] [15]
+[16] <location.png, id=1192, 1647.90656pt x 1857.94125pt>
+File: location.png Graphic file (type png)
+ <use location.png>
+Package pdftex.def Info: location.png used on input line 96.
+(pdftex.def)             Requested size: 300.0pt x 338.24223pt.
+
+[17 <./location.png>] [18]) [19]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+Chapter 4.
+[20
+
+
+
+] <Survey1.png, id=1216, 328.97906pt x 311.66437pt>
+File: Survey1.png Graphic file (type png)
+ <use Survey1.png>
+Package pdftex.def Info: Survey1.png used on input line 20.
+(pdftex.def)             Requested size: 250.0pt x 236.84836pt.
+
+Overfull \hbox (73.59561pt too wide) in paragraph at lines 20--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+<Survey2.png, id=1218, 493.845pt x 321.45094pt>
+File: Survey2.png Graphic file (type png)
+ <use Survey2.png>
+Package pdftex.def Info: Survey2.png used on input line 26.
+(pdftex.def)             Requested size: 250.0pt x 162.72629pt.
+
+Overfull \hbox (73.59561pt too wide) in paragraph at lines 26--27
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+<Survey3.png, id=1219, 406.51875pt x 280.04625pt>
+File: Survey3.png Graphic file (type png)
+ <use Survey3.png>
+Package pdftex.def Info: Survey3.png used on input line 35.
+(pdftex.def)             Requested size: 250.0pt x 172.221pt.
+
+Overfull \hbox (73.59561pt too wide) in paragraph at lines 35--36
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+<Survey4.png, id=1220, 418.56375pt x 303.38344pt>
+File: Survey4.png Graphic file (type png)
+ <use Survey4.png>
+Package pdftex.def Info: Survey4.png used on input line 41.
+(pdftex.def)             Requested size: 250.0pt x 181.20282pt.
+
+Overfull \hbox (73.59561pt too wide) in paragraph at lines 41--42
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[21] [22 <./Survey1.png> <./Survey2.png> <./Survey3.png> <./Survey4.png>])
+[23]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+Chapter 5.
+<AndroidOS.jpg, id=1235, 542.025pt x 622.325pt>
+File: AndroidOS.jpg Graphic file (type jpg)
+ <use AndroidOS.jpg>
+Package pdftex.def Info: AndroidOS.jpg used on input line 10.
+(pdftex.def)             Requested size: 400.0pt x 459.27882pt.
+ [24
+
+
+
+]
+[25 <./AndroidOS.jpg>] [26]
+<locationManager.png, id=1252, 346.29375pt x 252.945pt>
+File: locationManager.png Graphic file (type png)
+
+<use locationManager.png>
+Package pdftex.def Info: locationManager.png used on input line 27.
+(pdftex.def)             Requested size: 400.0pt x 292.18132pt.
+ [27 <./locationManager.png>]
+<EmailAndPasswordUsecase.png, id=1258, 334.24875pt x 129.48375pt>
+File: EmailAndPasswordUsecase.png Graphic file (type png)
+
+<use EmailAndPasswordUsecase.png>
+Package pdftex.def Info: EmailAndPasswordUsecase.png used on input line 42.
+(pdftex.def)             Requested size: 450.0pt x 174.33908pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 42--42
+ [] 
+ []
+
+<Login&RegisterActivity.png, id=1259, 413.29407pt x 389.20406pt>
+File: Login&RegisterActivity.png Graphic file (type png)
+
+<use Login&RegisterActivity.png>
+Package pdftex.def Info: Login&RegisterActivity.png used on input line 49.
+(pdftex.def)             Requested size: 450.0pt x 423.77861pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 49--49
+ [] 
+ []
+
+[28 <./EmailAndPasswordUsecase.png>] [29 <./Login&RegisterActivity.png>]
+<Login&RegisterSequence.png, id=1268, 923.70094pt x 517.935pt>
+File: Login&RegisterSequence.png Graphic file (type png)
+
+<use Login&RegisterSequence.png>
+Package pdftex.def Info: Login&RegisterSequence.png used on input line 57.
+(pdftex.def)             Requested size: 500.0pt x 280.36038pt.
+
+Overfull \hbox (58.98228pt too wide) in paragraph at lines 57--57
+ [] 
+ []
+
+[30 <./Login&RegisterSequence.png>] [31]
+<MapsUsecase.png, id=1277, 330.48468pt x 124.21407pt>
+File: MapsUsecase.png Graphic file (type png)
+ <use MapsUsecase.png>
+Package pdftex.def Info: MapsUsecase.png used on input line 71.
+(pdftex.def)             Requested size: 450.0pt x 169.14114pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 71--71
+ [] 
+ []
+
+<MapsGeofenceActivity.png, id=1278, 398.99063pt x 295.85532pt>
+File: MapsGeofenceActivity.png Graphic file (type png)
+
+<use MapsGeofenceActivity.png>
+Package pdftex.def Info: MapsGeofenceActivity.png used on input line 79.
+(pdftex.def)             Requested size: 450.0pt x 333.69414pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 79--79
+ [] 
+ []
+
+[32 <./MapsUsecase.png>] [33 <./MapsGeofenceActivity.png>] [34]
+<MapsSequence.png, id=1292, 666.23906pt x 602.25pt>
+File: MapsSequence.png Graphic file (type png)
+ <use MapsSequence.png>
+Package pdftex.def Info: MapsSequence.png used on input line 87.
+(pdftex.def)             Requested size: 400.0pt x 361.5917pt.
+
+[35 <./MapsSequence.png>]
+<PostingAndInformationUsecase.png, id=1297, 424.58624pt x 216.81pt>
+File: PostingAndInformationUsecase.png Graphic file (type png)
+
+<use PostingAndInformationUsecase.png>
+Package pdftex.def Info: PostingAndInformationUsecase.png used on input line 98
+.
+(pdftex.def)             Requested size: 350.0pt x 178.7315pt.
+ [36 <./PostingAndInformationUsecase.png>] <PostingInformation.png, id=1302, 38
+4.6872pt x 357.58594pt>
+File: PostingInformation.png Graphic file (type png)
+
+<use PostingInformation.png>
+Package pdftex.def Info: PostingInformation.png used on input line 108.
+(pdftex.def)             Requested size: 350.0pt x 325.36551pt.
+ [37 <./PostingInformation.png>]
+<PostingAndInformationSequence.png, id=1307, 410.2828pt x 923.70094pt>
+File: PostingAndInformationSequence.png Graphic file (type png)
+
+<use PostingAndInformationSequence.png>
+Package pdftex.def Info: PostingAndInformationSequence.png used on input line 1
+18.
+(pdftex.def)             Requested size: 250.0pt x 562.83661pt.
+ [38] [39 <./PostingAndInformationSequence.png>] <SettingsUsecase.png, id=1317,
+ 329.73187pt x 109.91063pt>
+File: SettingsUsecase.png Graphic file (type png)
+
+<use SettingsUsecase.png>
+Package pdftex.def Info: SettingsUsecase.png used on input line 131.
+(pdftex.def)             Requested size: 450.0pt x 150.00473pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 131--131
+ [] 
+ []
+
+<SettingsActivity.png, id=1318, 289.08pt x 258.9675pt>
+File: SettingsActivity.png Graphic file (type png)
+
+<use SettingsActivity.png>
+Package pdftex.def Info: SettingsActivity.png used on input line 139.
+(pdftex.def)             Requested size: 350.0pt x 313.55708pt.
+ [40 <./SettingsUsecase.png>] [41 <./SettingsActivity.png>] <SequenceDiagramSet
+tings.png, id=1327, 532.99126pt x 186.6975pt>
+File: SequenceDiagramSettings.png Graphic file (type png)
+
+<use SequenceDiagramSettings.png>
+Package pdftex.def Info: SequenceDiagramSettings.png used on input line 147.
+(pdftex.def)             Requested size: 450.0pt x 157.63103pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 147--147
+ [] 
+ []
+
+<FullActivityUseCase.png, id=1328, 325.215pt x 640.64343pt>
+File: FullActivityUseCase.png Graphic file (type png)
+
+<use FullActivityUseCase.png>
+Package pdftex.def Info: FullActivityUseCase.png used on input line 155.
+(pdftex.def)             Requested size: 300.0pt x 591.01205pt.
+
+
+LaTeX Warning: Float too large for page by 13.68524pt on input line 157.
+
+[42 <./SequenceDiagramSettings.png>] [43 <./FullActivityUseCase.png>]
+<FullActivity.png, id=1337, 710.655pt x 499.8675pt>
+File: FullActivity.png Graphic file (type png)
+ <use FullActivity.png>
+Package pdftex.def Info: FullActivity.png used on input line 165.
+(pdftex.def)             Requested size: 470.0pt x 330.60002pt.
+
+Overfull \hbox (28.98228pt too wide) in paragraph at lines 165--165
+ [] 
+ []
+
+) [44 <./FullActivity.png>] [45]
+\openout2 = `chapter6.aux'.
+
+ (chapter6.tex
+Chapter 6.
+<informe.png, id=1347, 670.505pt x 661.47125pt>
+File: informe.png Graphic file (type png)
+ <use informe.png>
+Package pdftex.def Info: informe.png used on input line 10.
+(pdftex.def)             Requested size: 150.0pt x 147.97678pt.
+ [46
+
+
+
+]
+<LoginWireframe.png, id=1352, 335.75438pt x 644.4075pt>
+File: LoginWireframe.png Graphic file (type png)
+
+<use LoginWireframe.png>
+Package pdftex.def Info: LoginWireframe.png used on input line 21.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [47 <./informe.png>] [48 <./LoginWireframe.png (PNG copy)>] <ColoursWireframe.
+png, id=1362, 335.75438pt x 644.4075pt>
+File: ColoursWireframe.png Graphic file (type png)
+
+<use ColoursWireframe.png>
+Package pdftex.def Info: ColoursWireframe.png used on input line 35.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [49 <./ColoursWireframe.png (PNG copy)>]
+<LoggedInWireframe.png, id=1370, 335.75438pt x 644.4075pt>
+File: LoggedInWireframe.png Graphic file (type png)
+
+<use LoggedInWireframe.png>
+Package pdftex.def Info: LoggedInWireframe.png used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [50 <./LoggedInWireframe.png (PNG copy)>]
+<MapActivityWireframe.png, id=1376, 335.75438pt x 644.4075pt>
+File: MapActivityWireframe.png Graphic file (type png)
+
+<use MapActivityWireframe.png>
+Package pdftex.def Info: MapActivityWireframe.png used on input line 56.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [51 <./MapActivityWireframe.png (PNG copy)>]
+<GeofenceMapWireframe.png, id=1381, 335.75438pt x 644.4075pt>
+File: GeofenceMapWireframe.png Graphic file (type png)
+
+<use GeofenceMapWireframe.png>
+Package pdftex.def Info: GeofenceMapWireframe.png used on input line 64.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [52 <./GeofenceMapWireframe.png (PNG copy)>]
+<SettingsPreference.png, id=1386, 335.75438pt x 644.4075pt>
+File: SettingsPreference.png Graphic file (type png)
+
+<use SettingsPreference.png>
+Package pdftex.def Info: SettingsPreference.png used on input line 74.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+
+<addInformationWireframe.png, id=1387, 335.75438pt x 644.4075pt>
+File: addInformationWireframe.png Graphic file (type png)
+
+<use addInformationWireframe.png>
+Package pdftex.def Info: addInformationWireframe.png used on input line 82.
+(pdftex.def)             Requested size: 150.0pt x 287.88629pt.
+ [53 <./SettingsPreference.png (PNG copy)>]
+[54 <./addInformationWireframe.png (PNG copy)>]
+<DisplayInformationWireframe.png, id=1396, 335.75438pt x 644.4075pt>
+File: DisplayInformationWireframe.png Graphic file (type png)
+
+<use DisplayInformationWireframe.png>
+Package pdftex.def Info: DisplayInformationWireframe.png used on input line 95.
+
+(pdftex.def)             Requested size: 176.40439pt x 338.56482pt.
+
+<ViewPostsWireframe.png, id=1397, 335.75438pt x 644.4075pt>
+File: ViewPostsWireframe.png Graphic file (type png)
+
+<use ViewPostsWireframe.png>
+Package pdftex.def Info: ViewPostsWireframe.png used on input line 101.
+(pdftex.def)             Requested size: 176.40439pt x 338.56482pt.
+) [55 <./DisplayInformationWireframe.png (PNG copy)> <./ViewPostsWireframe.png 
+(PNG copy)>] [56]
+\openout2 = `chapter7.aux'.
+
+ (chapter7.tex
+Chapter 7.
+<ActivityLife.png, id=1407, 524.96124pt x 675.52374pt>
+File: ActivityLife.png Graphic file (type png)
+ <use ActivityLife.png>
+Package pdftex.def Info: ActivityLife.png used on input line 32.
+(pdftex.def)             Requested size: 350.0pt x 450.39272pt.
+
+[57
+
+
+
+] [58 <./ActivityLife.png>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 43.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\oms
+ptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+
+Overfull \hbox (4.62968pt too wide) in paragraph at lines 41--44
+\OT1/ptm/m/it/12 "C:\OMS/cmsy/m/n/12 n\OT1/ptm/m/it/12 Program Files (x86)\OMS/
+cmsy/m/n/12 n\OT1/ptm/m/it/12 Java\OMS/cmsy/m/n/12 n\OT1/ptm/m/it/12 jdk1.8.0[]
+65 \OMS/cmsy/m/n/12 n\OT1/ptm/m/it/12 bin$\OML/cmm/m/it/12 >$ \OT1/ptm/m/it/12 
+key-tool -list -v -keystore "C:\OMS/cmsy/m/n/12 n\OT1/ptm/m/it/12 Users\OMS/cms
+y/m/n/12 n\OT1/ptm/m/it/12 Adam
+ []
+
+<Hashkeys.png, id=1419, 598.48593pt x 276.28218pt>
+File: Hashkeys.png Graphic file (type png)
+ <use Hashkeys.png>
+Package pdftex.def Info: Hashkeys.png used on input line 46.
+(pdftex.def)             Requested size: 450.0pt x 207.73808pt.
+
+Overfull \hbox (8.98228pt too wide) in paragraph at lines 46--46
+ [] 
+ []
+
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) [59]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 54.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
+ [60 <./Hashkeys.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+[61]
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 114.
+
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\oml
+ptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 114.
+ [62] [63] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+[66] [67] [68] [69] [70] [71]
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 403.
+ [72] [73] [74] [75] [76] [77]
+<database1.png, id=1947, 488.57532pt x 365.11406pt>
+File: database1.png Graphic file (type png)
+ <use database1.png>
+Package pdftex.def Info: database1.png used on input line 601.
+(pdftex.def)             Requested size: 300.0pt x 224.1956pt.
+
+<database2.png, id=1948, 440.39531pt x 401.24907pt>
+File: database2.png Graphic file (type png)
+ <use database2.png>
+Package pdftex.def Info: database2.png used on input line 604.
+(pdftex.def)             Requested size: 300.0pt x 273.34167pt.
+
+[78] [79 <./database1.png> <./database2.png>]) [80]
+\openout2 = `chapter8.aux'.
+
+ (chapter8.tex
+Chapter 8.
+[81
+
+
+
+] [82] [83] [84] [85] [86] [87]) [88]
+\openout2 = `chapter9.aux'.
+
+ (chapter9.tex
+Chapter 9.
+[89
+
+
+
+] <Lucan.png, id=2031, 411.78844pt x 280.79906pt>
+File: Lucan.png Graphic file (type png)
+ <use Lucan.png>
+Package pdftex.def Info: Lucan.png used on input line 22.
+(pdftex.def)             Requested size: 350.0pt x 238.66747pt.
+
+<Lucanresponces.png, id=2032, 450.9347pt x 84.315pt>
+File: Lucanresponces.png Graphic file (type png)
+ <use Lucanresponces.png>
+Package pdftex.def Info: Lucanresponces.png used on input line 29.
+(pdftex.def)             Requested size: 350.0pt x 65.44507pt.
+
+[90 <./Lucan.png> <./Lucanresponces.png>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [91]
+<dataused.jpg, id=2048, 722.7pt x 1284.8pt>
+File: dataused.jpg Graphic file (type jpg)
+ <use dataused.jpg>
+Package pdftex.def Info: dataused.jpg used on input line 64.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+ [92]
+<wikifeel.jpg, id=2055, 722.7pt x 1284.8pt>
+File: wikifeel.jpg Graphic file (type jpg)
+ <use wikifeel.jpg>
+Package pdftex.def Info: wikifeel.jpg used on input line 73.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+ [93 <./dataused.jpg>] [94 <./wikifeel.jpg>]) [95]
+\openout2 = `chapter10.aux'.
+
+ (chapter10.tex
+Chapter 10.
+[96
+
+
+
+]) [97]
+\openout2 = `chapter11.aux'.
+
+ (chapter11.tex
+Chapter 11.
+<Login-Page.png, id=2082, 722.7pt x 1284.8pt>
+File: Login-Page.png Graphic file (type png)
+ <use Login-Page.png>
+Package pdftex.def Info: Login-Page.png used on input line 9.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<LoggedIn-Page.png, id=2083, 722.7pt x 1284.8pt>
+File: LoggedIn-Page.png Graphic file (type png)
+ <use LoggedIn-Page.png>
+Package pdftex.def Info: LoggedIn-Page.png used on input line 15.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<register.jpg, id=2084, 722.7pt x 1284.8pt>
+File: register.jpg Graphic file (type jpg)
+ <use register.jpg>
+Package pdftex.def Info: register.jpg used on input line 24.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Settings-Preference.png, id=2085, 722.7pt x 1284.8pt>
+File: Settings-Preference.png Graphic file (type png)
+
+<use Settings-Preference.png>
+Package pdftex.def Info: Settings-Preference.png used on input line 30.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Notification-Settings.png, id=2086, 722.7pt x 1284.8pt>
+File: Notification-Settings.png Graphic file (type png)
+
+<use Notification-Settings.png>
+Package pdftex.def Info: Notification-Settings.png used on input line 39.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Battery-Settings.png, id=2087, 722.7pt x 1284.8pt>
+File: Battery-Settings.png Graphic file (type png)
+ <use Battery-Settings.png>
+Package pdftex.def Info: Battery-Settings.png used on input line 45.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Geofence-Enter.png, id=2088, 722.7pt x 1284.8pt>
+File: Geofence-Enter.png Graphic file (type png)
+ <use Geofence-Enter.png>
+Package pdftex.def Info: Geofence-Enter.png used on input line 54.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Information-Page.png, id=2089, 722.7pt x 1284.8pt>
+File: Information-Page.png Graphic file (type png)
+ <use Information-Page.png>
+Package pdftex.def Info: Information-Page.png used on input line 60.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Display-Posts.png, id=2090, 722.7pt x 1284.8pt>
+File: Display-Posts.png Graphic file (type png)
+ <use Display-Posts.png>
+Package pdftex.def Info: Display-Posts.png used on input line 69.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<onClickPost.png, id=2091, 722.7pt x 1284.8pt>
+File: onClickPost.png Graphic file (type png)
+ <use onClickPost.png>
+Package pdftex.def Info: onClickPost.png used on input line 75.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Adding-Geofence-Request-Email.png, id=2092, 722.7pt x 1284.8pt>
+File: Adding-Geofence-Request-Email.png Graphic file (type png)
+
+<use Adding-Geofence-Request-Email.png>
+Package pdftex.def Info: Adding-Geofence-Request-Email.png used on input line 8
+4.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Add-Post.png, id=2093, 722.7pt x 1284.8pt>
+File: Add-Post.png Graphic file (type png)
+ <use Add-Post.png>
+Package pdftex.def Info: Add-Post.png used on input line 90.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+
+<Updating-Post.png, id=2094, 722.7pt x 1284.8pt>
+File: Updating-Post.png Graphic file (type png)
+ <use Updating-Post.png>
+Package pdftex.def Info: Updating-Post.png used on input line 99.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+File: onClickPost.png Graphic file (type png)
+
+<use onClickPost.png>
+Package pdftex.def Info: onClickPost.png used on input line 105.
+(pdftex.def)             Requested size: 150.0pt x 266.65965pt.
+) [98
+
+
+
+] [99 <./Login-Page.png> <./LoggedIn-Page.png> <./register.jpg> <./Settings-Pre
+ference.png>] [100 <./Notification-Settings.png> <./Battery-Settings.png> <./Ge
+ofence-Enter.png> <./Information-Page.png>] [101 <./Display-Posts.png> <./onCli
+ckPost.png> <./Adding-Geofence-Request-Email.png> <./Add-Post.png>] [102 <./Upd
+ating-Post.png>]
+\openout2 = `chapter12.aux'.
+
+ (chapter12.tex
+Chapter 12.
+(Email&Authenticatio.txt [103
+
+
+
+] [104] [105] [106] [107] [108] [109] [110]
+[111]
+LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 355.
+ [112] [113] [114] [115] [116] [117] [118] [119]) (Progress.txt [120])
+[121] (RegisterAccount.txt [122] [123] [124] [125] [126]
+Overfull \hbox (71.73627pt too wide) in paragraph at lines 201--202
+[][] 
+ []
+
+
+Overfull \hbox (45.45605pt too wide) in paragraph at lines 202--203
+[][] 
+ []
+
+[127] [128] [129] [130] [131]) (SetupActivity.txt [132] [133] [134] [135]
+[136] [137] [138]) (ResetActivity.txt [139] [140] [141] [142]
+Overfull \hbox (71.73627pt too wide) in paragraph at lines 148--149
+[][] 
+ []
+
+
+Overfull \hbox (45.45605pt too wide) in paragraph at lines 149--150
+[][] 
+ []
+
+[143]) [144] (AddInformation.txt [145] [146] [147] [148] [149] [150])
+(Constants.txt [151]) (GeofenceTransitionsIntentService.txt [152] [153]
+[154] [155]) (MapsActivity.txt [156] [157] [158] [159] [160] [161] [162]
+[163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174]
+[175] [176] [177]) (Place.txt) (Comments.txt [178] [179] [180] [181])
+(CommentsActivity.txt [182] [183] [184] [185]) (InformationFlipActivity.txt
+[186] [187] [188] [189] [190] [191] [192]) (InformationFrontFragment.txt
+[193] [194] [195] [196] [197] [198] [199]) (InformationBackCommentsFragment.txt
+[200] [201] [202] [203] [204] [205] [206] [207] [208]) (PostActivity.txt
+[209] [210] [211] [212] [213] [214] [215] [216]
+Overfull \hbox (25.7459pt too wide) in paragraph at lines 278--279
+[][] 
+ []
+
+
+Overfull \hbox (19.17584pt too wide) in paragraph at lines 279--280
+[][] 
+ []
+
+
+Overfull \hbox (19.17584pt too wide) in paragraph at lines 286--287
+[][] 
+ []
+
+
+Overfull \hbox (19.17584pt too wide) in paragraph at lines 287--288
+[][] 
+ []
+
+[217]) (UpdateActivity.txt [218] [219] [220] [221] [222] [223]) [224]
+(AppCompatPreferenceActivity.txt [225] [226] [227]) [228] (SettingsActivity.txt
+[229] [230] [231] [232] [233] [234]) [235] (CheckConnectivity.txt [236]
+[237] [238] [239])) [240]
+\openout2 = `chapter13.aux'.
+
+ (chapter13.tex
+Chapter 13.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\l
+stmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+) (AndroidManifest.txt [241
+
+
+
+] [242] [243])) [244]
+\openout2 = `chapter14.aux'.
+
+ (chapter14.tex
+Chapter 14.
+(google-services.txt [245
+
+
+
+])) [246] (Thesis.bbl
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 14.
+
+("C:\Users\Adam O'Connor\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
+pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 2269) in paragraph at lines 59--65
+[]\OT1/ptm/m/n/12 Android De-vel-op-ers.  Re-duc-ing Net-work Bat-tery Drain.  
+On-line, 2016.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--65
+[]$\OT1/pcr/m/n/12 https : / / developer . android . com / training / performan
+ce / battery /
+ []
+
+[247
+
+
+]
+Underfull \hbox (badness 3668) in paragraph at lines 72--78
+[]\OT1/ptm/m/n/12 Brady Don-nelly.  How to Build a Mo-bile App That Won't Drain
+ Your Bat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--78
+\OT1/ptm/m/n/12 tery.  On-line, 2012.  URL []$\OT1/pcr/m/n/12 http : / / mashab
+le . com / 2017 / 04 / 26 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--78
+\OT1/pcr/m/n/12 disconnect-[]with-[]this-[]phone / #7vAVhLpSeqqH$[]\OT1/ptm/m/n
+/12 .  [Ac-cessed 03 May
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+[]\OT1/ptm/m/n/12 How-To-Geek.  Mo-bile Linux.  On-line, 2014.  URL []$\OT1/pcr
+/m/n/12 https : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+\OT1/pcr/m/n/12 verizonwireless . com / support / android-[]os-[]faqs/$[]\OT1/p
+tm/m/n/12 .  [Ac-cessed 17
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+[]\OT1/ptm/m/n/12 JavatPoint.com.  An-droid Ac-tiv-ity Life-cy-cle.  On-line, 2
+013.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+[]$\OT1/pcr/m/n/12 https : / / www . javatpoint . com / images / androidimages 
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+[]\OT1/ptm/m/n/12 Steven Mar-tain.  Up-com-ing name change for win-dows azure, 
+Mar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+\OT1/ptm/m/n/12 2014.  URL []$\OT1/pcr/m/n/12 https : / / azure . microsoft . c
+om / en-[]us / blog /
+ []
+
+[248]
+Underfull \hbox (badness 10000) in paragraph at lines 181--187
+[]\OT1/ptm/m/n/12 Mark Wil-son.  HTC Dream An-droid Phone.  On-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--187
+\OT1/ptm/m/n/12 line, 2008.  URL []$\OT1/pcr/m/n/12 http : / / gizmodo . com / 
+5053264 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--187
+\OT1/pcr/m/n/12 t-[]mobile-[]g1-[]full-[]details-[]of-[]the-[]htc-[]dream-[]and
+roid-[]phone .
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+ [249]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+ (Thesis.aux (abstract.aux) (acknowledgement.aux) (abbreviations.aux)
+(chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux)
+(chapter6.aux) (chapter7.aux) (chapter8.aux) (chapter9.aux) (chapter10.aux)
+(chapter11.aux) (chapter12.aux) (chapter13.aux) (chapter14.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 85B85853A6E9FEFB1B898085DA65CED7;11685.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
+ ) 
+Here is how much of TeX's memory you used:
+ 18590 strings out of 493334
+ 295078 string characters out of 3126757
+ 407453 words of memory out of 12000000
+ 15249 multiletter control sequences out of 15000+200000
+ 35223 words of font info for 76 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,11n,54p,1340b,1830s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Adam O'Connor/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fon
+tname/8r.enc}<C:/Users/Adam O'Connor/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/bitstrea/charter/bchb8a.pfb><C:/Users/Adam O'Connor/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Adam O'Connor/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/U
+sers/Adam O'Connor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/Adam O'Connor/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/courier/ucrr8a.pfb><C:/Users/Adam O'Connor/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Adam O'Connor/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Adam O'Connor/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Ad
+am O'Connor/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on Thesis.pdf (266 pages, 8180229 bytes).
+PDF statistics:
+ 9500 PDF objects out of 10688 (max. 8388607)
+ 6429 named destinations out of 7423 (max. 500000)
+ 1553 words of extra memory for PDF output out of 10000 (max. 10000000)
+

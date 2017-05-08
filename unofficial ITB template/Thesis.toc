@@ -1,0 +1,160 @@
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{Table of Contents}{iv}{chapter*.3}
+\contentsline {chapter}{List of Tables}{xii}{chapter*.3}
+\contentsline {chapter}{List of Figures}{xiii}{chapter*.4}
+\contentsline {chapter}{Abbreviations}{xvi}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Introduction of the InforMe@Dublin Project}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Research Question's}{2}{section.1.3}
+\contentsline {chapter}{\numberline {2}Project Management}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Project Name / Supervisor / Manager }{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Success Criteria}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Assumptions Risks and Obstacles }{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Motivation for choosing project}{4}{section.2.4}
+\contentsline {section}{\numberline {2.5}Methodology}{5}{section.2.5}
+\contentsline {section}{\numberline {2.6}Work Breakdown Structure}{6}{section.2.6}
+\contentsline {section}{\numberline {2.7}Technologies and Skills Needed}{6}{section.2.7}
+\contentsline {section}{\numberline {2.8}Gantt Chart}{7}{section.2.8}
+\contentsline {section}{\numberline {2.9}Development Device}{8}{section.2.9}
+\contentsline {section}{\numberline {2.10}Conclusion}{9}{section.2.10}
+\contentsline {chapter}{\numberline {3}Literature Review}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}The New Era of Mobile Phone Technology}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Rise of Android OS}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}A Look at Smartphone Frameworks}{11}{section.3.3}
+\contentsline {section}{\numberline {3.4}The Creation of a New IDE}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}Moving to the Cloud}{13}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Firebase}{13}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Microsoft Azure}{14}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Utilising Google's Geographical Mapping Systems }{14}{section.3.6}
+\contentsline {section}{\numberline {3.7}Acquiring Location Based Services}{15}{section.3.7}
+\contentsline {section}{\numberline {3.8}Details in Inquiring the Location of a Device}{16}{section.3.8}
+\contentsline {section}{\numberline {3.9}Literature Conclusion}{18}{section.3.9}
+\contentsline {chapter}{\numberline {4}Methodology Chapter}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}Appropriateness of the Research Design}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}Pilot Study of Proposed Project}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Ethical Considerations}{21}{section.4.3}
+\contentsline {section}{\numberline {4.4}Validity}{21}{section.4.4}
+\contentsline {section}{\numberline {4.5}InforMe@Dublin Survey Results}{21}{section.4.5}
+\contentsline {section}{\numberline {4.6}Summary}{23}{section.4.6}
+\contentsline {chapter}{\numberline {5}System Requirements and Specification}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}Description}{24}{section.5.1}
+\contentsline {section}{\numberline {5.2}Underlying Architecture of the Android OS}{24}{section.5.2}
+\contentsline {section}{\numberline {5.3}Android's Incorporated libraries}{26}{section.5.3}
+\contentsline {section}{\numberline {5.4}A Look at Android's Location Service's}{26}{section.5.4}
+\contentsline {paragraph}{Google Play Services}{26}{section*.7}
+\contentsline {section}{\numberline {5.5}Installation of InforMe@Dublin}{27}{section.5.5}
+\contentsline {section}{\numberline {5.6}Login and Authentication Diagrams}{28}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Login Use Case Diagram}{28}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Login Activity Diagram}{28}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Login Sequence Diagram}{30}{subsection.5.6.3}
+\contentsline {section}{\numberline {5.7}Maps and Geofencing Diagrams}{31}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Maps and Geofence Use Case Diagram}{31}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Maps and Geofence Activity Diagram}{32}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Maps and Geofence Sequence Diagram}{34}{subsection.5.7.3}
+\contentsline {section}{\numberline {5.8}Information and Posting Diagrams}{35}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Information and Posting Use Case Diagram}{36}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Information and Posting Activity Diagram}{37}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Information and Posting Sequence Diagram}{38}{subsection.5.8.3}
+\contentsline {section}{\numberline {5.9}Settings Diagrams}{40}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}Settings Use Case Diagram}{40}{subsection.5.9.1}
+\contentsline {subsection}{\numberline {5.9.2}Settings Activity Diagram}{40}{subsection.5.9.2}
+\contentsline {subsection}{\numberline {5.9.3}Settings Sequence Diagram}{42}{subsection.5.9.3}
+\contentsline {section}{\numberline {5.10}Overall System Use Case Diagram}{42}{section.5.10}
+\contentsline {section}{\numberline {5.11}Activity Diagram with Overall System}{44}{section.5.11}
+\contentsline {section}{\numberline {5.12}Summary of the Chapter}{45}{section.5.12}
+\contentsline {chapter}{\numberline {6}Application Design}{46}{chapter.6}
+\contentsline {section}{\numberline {6.1}Description of the Chapter}{46}{section.6.1}
+\contentsline {section}{\numberline {6.2}Creation of InforMe@Dublin's Logo}{46}{section.6.2}
+\contentsline {section}{\numberline {6.3}Start Page}{47}{section.6.3}
+\contentsline {section}{\numberline {6.4}Colour Scheme}{49}{section.6.4}
+\contentsline {section}{\numberline {6.5}Wire-frames}{50}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Login}{50}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Map}{51}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Settings}{53}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Add Information}{53}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.5}Show Information}{54}{subsection.6.5.5}
+\contentsline {section}{\numberline {6.6}Summary of the Chapter}{56}{section.6.6}
+\contentsline {chapter}{\numberline {7}Implementation of System}{57}{chapter.7}
+\contentsline {section}{\numberline {7.1}Initialization of the System}{57}{section.7.1}
+\contentsline {section}{\numberline {7.2}Background to Android Devices Activity's Life-cycle}{57}{section.7.2}
+\contentsline {section}{\numberline {7.3}Putting InforMe@Dublin Application on Google Play}{59}{section.7.3}
+\contentsline {section}{\numberline {7.4}A Way of allocating Permissions}{60}{section.7.4}
+\contentsline {section}{\numberline {7.5}Utilising Firebase's Auth method}{63}{section.7.5}
+\contentsline {section}{\numberline {7.6}Logging into Cloud services}{63}{section.7.6}
+\contentsline {section}{\numberline {7.7}Creation of User Preferences}{66}{section.7.7}
+\contentsline {section}{\numberline {7.8}Retrieving of Google's Mapping System}{67}{section.7.8}
+\contentsline {section}{\numberline {7.9}Attaining Clients Correlative Location}{70}{section.7.9}
+\contentsline {section}{\numberline {7.10}Finding the Corresponding Positions of Historic areas}{71}{section.7.10}
+\contentsline {section}{\numberline {7.11}A Look at the Geofencing Notification Service}{74}{section.7.11}
+\contentsline {section}{\numberline {7.12}Retrieving Information of Historical Monuments}{75}{section.7.12}
+\contentsline {section}{\numberline {7.13}Storage of Data}{78}{section.7.13}
+\contentsline {section}{\numberline {7.14}Summary of the Chapter}{80}{section.7.14}
+\contentsline {chapter}{\numberline {8}Testing and Evaluation}{81}{chapter.8}
+\contentsline {section}{\numberline {8.1}Description of the Chapter}{81}{section.8.1}
+\contentsline {section}{\numberline {8.2}Functional Correctness}{81}{section.8.2}
+\contentsline {section}{\numberline {8.3}Loading of the Application}{82}{section.8.3}
+\contentsline {section}{\numberline {8.4}Loading of the Map}{82}{section.8.4}
+\contentsline {section}{\numberline {8.5}Loading of the Information}{83}{section.8.5}
+\contentsline {section}{\numberline {8.6}Efficiency of the Application}{83}{section.8.6}
+\contentsline {section}{\numberline {8.7}Usability of the Application}{84}{section.8.7}
+\contentsline {section}{\numberline {8.8}Tasks on using the Application for a Tester}{84}{section.8.8}
+\contentsline {section}{\numberline {8.9}Tester 01}{85}{section.8.9}
+\contentsline {subsection}{\numberline {8.9.1}Graphic Display}{85}{subsection.8.9.1}
+\contentsline {subsection}{\numberline {8.9.2}Usability}{85}{subsection.8.9.2}
+\contentsline {subsection}{\numberline {8.9.3}Additional Comments}{85}{subsection.8.9.3}
+\contentsline {section}{\numberline {8.10}Tester 02}{86}{section.8.10}
+\contentsline {subsection}{\numberline {8.10.1}Graphic Display}{86}{subsection.8.10.1}
+\contentsline {subsection}{\numberline {8.10.2}Usability}{86}{subsection.8.10.2}
+\contentsline {subsection}{\numberline {8.10.3}Additional Comments}{86}{subsection.8.10.3}
+\contentsline {section}{\numberline {8.11}Tester 03}{86}{section.8.11}
+\contentsline {subsection}{\numberline {8.11.1}Graphic Display}{86}{subsection.8.11.1}
+\contentsline {subsection}{\numberline {8.11.2}Usability}{87}{subsection.8.11.2}
+\contentsline {subsection}{\numberline {8.11.3}Additional Comments}{87}{subsection.8.11.3}
+\contentsline {subsection}{\numberline {8.11.4}Security Testing}{87}{subsection.8.11.4}
+\contentsline {section}{\numberline {8.12}Visual Testing}{87}{section.8.12}
+\contentsline {section}{\numberline {8.13}Summary of Chapter}{88}{section.8.13}
+\contentsline {chapter}{\numberline {9}Conclusions and Recommendations for Further Work}{89}{chapter.9}
+\contentsline {section}{\numberline {9.1}Summary and Main Conclusions}{89}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Developments and Findings Relating to Research Objective 1}{89}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Developments and Findings Relating to Research Objective 2}{91}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Developments and Findings Relating to Research Objective 3}{92}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Developments and Findings Relating to Research Objective 4}{93}{subsection.9.1.4}
+\contentsline {section}{\numberline {9.2}Recommendations for Further Work}{94}{section.9.2}
+\contentsline {chapter}{\numberline {10}Personal Reflections}{96}{chapter.10}
+\contentsline {section}{\numberline {10.1}Fingal County Council Feedback}{96}{section.10.1}
+\contentsline {section}{\numberline {10.2}Dublin City County Council Feedback}{97}{section.10.2}
+\contentsline {chapter}{\numberline {11}Appendix A}{98}{chapter.11}
+\contentsline {section}{\numberline {11.1}InforMe@Dublin Screen Shots}{98}{section.11.1}
+\contentsline {chapter}{\numberline {12}Appendix B}{103}{chapter.12}
+\contentsline {section}{\numberline {12.1}InforMe@Dublin Code Listings}{103}{section.12.1}
+\contentsline {section}{\numberline {12.2}Login\&Register}{103}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}EmailPasswordAuthentication}{103}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}Progress}{120}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.3}RegisterAccount}{122}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.4}SetupActivity}{132}{subsection.12.2.4}
+\contentsline {subsection}{\numberline {12.2.5}ResetActivity}{139}{subsection.12.2.5}
+\contentsline {section}{\numberline {12.3}Maps\&Geofencing}{145}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}AddInformation}{145}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.2}Constants}{151}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}GeofenceTransitionsIntentService}{152}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.4}MapsActivity}{156}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.5}Place}{178}{subsection.12.3.5}
+\contentsline {section}{\numberline {12.4}PostingInformation\&Comments}{178}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Comments}{178}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}CommentsActivity}{182}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.3}InformationFlipActivity}{186}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.4}InformationFrontFragment}{193}{subsection.12.4.4}
+\contentsline {subsection}{\numberline {12.4.5}InformationBackCommentsFragment}{200}{subsection.12.4.5}
+\contentsline {subsection}{\numberline {12.4.6}PostActivity}{209}{subsection.12.4.6}
+\contentsline {subsection}{\numberline {12.4.7}UpdateActivity}{218}{subsection.12.4.7}
+\contentsline {section}{\numberline {12.5}Settings}{225}{section.12.5}
+\contentsline {subsection}{\numberline {12.5.1}AppCompatPreferenceActivity}{225}{subsection.12.5.1}
+\contentsline {subsection}{\numberline {12.5.2}SettingsActivity}{229}{subsection.12.5.2}
+\contentsline {subsection}{\numberline {12.5.3}CheckConnectivity}{236}{subsection.12.5.3}
+\contentsline {chapter}{\numberline {13}Appendix C}{241}{chapter.13}
+\contentsline {section}{\numberline {13.1}AndroidManifest}{241}{section.13.1}
+\contentsline {chapter}{\numberline {14}Appendix D}{245}{chapter.14}
+\contentsline {section}{\numberline {14.1}Google-services.json}{245}{section.14.1}
+\contentsline {chapter}{Bibliography}{247}{lstnumber.14.1.42}
